@@ -1,0 +1,7 @@
+
+data : 'XGBoost10' #['XGBoost10', 'SHAP10', 'PCA10', 'ta_all']
+stocks : ['SPY'] #['ASTE', 'CENX', 'GIFI', 'HOLX', 'IBOC', 'NTRS', 'PRGS']
+n_steps_in : 2
+n_steps_out : 5   #[1, 5]
+train_dimension : 0.8
+epochs : 1000
